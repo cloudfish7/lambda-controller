@@ -1,0 +1,4 @@
+/.venv_lc
+/build
+/dist
+/lambda_controller.egg-info
